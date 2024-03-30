@@ -5,8 +5,8 @@
 // **************************************************************************
 
 // ignore_for_file: no_leading_underscores_for_library_prefixes
-import 'package:deliverhobe_app/ui/views/home/home_view.dart' as _i2;
-import 'package:deliverhobe_app/ui/views/startup/startup_view.dart' as _i3;
+import 'package:fulflld_app/ui/views/home/home_view.dart' as _i2;
+import 'package:fulflld_app/ui/views/startup/startup_view.dart' as _i3;
 import 'package:flutter/material.dart' as _i4;
 import 'package:flutter/material.dart';
 import 'package:stacked/stacked.dart' as _i1;

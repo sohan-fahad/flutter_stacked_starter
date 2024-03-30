@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "deliverhobe_app" "\0"
+            VALUE "FileDescription", "fulflld_app" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "deliverhobe_app" "\0"
+            VALUE "InternalName", "fulflld_app" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "deliverhobe_app.exe" "\0"
-            VALUE "ProductName", "deliverhobe_app" "\0"
+            VALUE "OriginalFilename", "fulflld_app.exe" "\0"
+            VALUE "ProductName", "fulflld_app" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

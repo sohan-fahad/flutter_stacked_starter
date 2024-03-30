@@ -1,7 +1,7 @@
-import 'package:deliverhobe_app/ui/bottom_sheets/notice/notice_sheet.dart';
-import 'package:deliverhobe_app/ui/dialogs/info_alert/info_alert_dialog.dart';
-import 'package:deliverhobe_app/ui/views/home/home_view.dart';
-import 'package:deliverhobe_app/ui/views/startup/startup_view.dart';
+import 'package:fulflld_app/ui/bottom_sheets/notice/notice_sheet.dart';
+import 'package:fulflld_app/ui/dialogs/info_alert/info_alert_dialog.dart';
+import 'package:fulflld_app/ui/views/home/home_view.dart';
+import 'package:fulflld_app/ui/views/startup/startup_view.dart';
 import 'package:stacked/stacked_annotations.dart';
 import 'package:stacked_services/stacked_services.dart';
 // @stacked-import

@@ -1,7 +1,7 @@
-import 'package:deliverhobe_app/@app/app.bottomsheets.dart';
-import 'package:deliverhobe_app/@app/app.dialogs.dart';
-import 'package:deliverhobe_app/@app/app.locator.dart';
-import 'package:deliverhobe_app/ui/common/app_strings.dart';
+import 'package:fulflld_app/@app/app.bottomsheets.dart';
+import 'package:fulflld_app/@app/app.dialogs.dart';
+import 'package:fulflld_app/@app/app.locator.dart';
+import 'package:fulflld_app/ui/common/app_strings.dart';
 import 'package:stacked/stacked.dart';
 import 'package:stacked_services/stacked_services.dart';
 
