@@ -1,0 +1,13 @@
+{
+  "bottom_sheets_path": "views/@widgets/common/bottom_sheets",
+  "dialogs_path": "views/@widgets/common/dialogs",
+  "line_length": 80,
+  "locator_name": "locator",
+  "prefer_web": false,
+  "register_mocks_function": "registerServices",
+  "services_path": "@services",
+  "stacked_app_file_path": "@app/app.dart",
+  "v1": false,
+  "views_path": "ui/views",
+  "widgets_path": "ui/widgets/common"
+}
